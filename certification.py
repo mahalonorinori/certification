@@ -1,7 +1,7 @@
 import streamlit as st
 
 # 正しいIDとパスワード
-VALID_ID = "ntanaka"
+VALID_ID = "hirakegoma"
 VALID_PASSWORD = "opensesami"
 
 # セッション状態を初期化
